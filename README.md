@@ -15,4 +15,12 @@ In partnership with Microsoft FarmBeats, we developed a platform that not only m
 **Prototypes**
 
 ![prototype]()
-## 
+
+## User Flow
+![User Flow](https://github.com/GraceRao/515-team15/blob/main/Assets/User%20flow.jpg)
+
+## Hardware
+![Hardware](https://github.com/GraceRao/515-team15/blob/main/Assets/Hardware.jpg)
+
+## Software
+![Software](https://github.com/GraceRao/515-team15/blob/main/Assets/Software.jpg)
