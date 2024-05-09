@@ -9,9 +9,8 @@ In partnership with Microsoft FarmBeats, we developed a platform that not only m
 
 ## UI Design
 **Wireframe**
-
 ![wireframe](https://github.com/GraceRao/515-team15/blob/main/Assets/Wireframe.jpg)
 
 **Prototypes**
-
+![prototype]()
 ## 
